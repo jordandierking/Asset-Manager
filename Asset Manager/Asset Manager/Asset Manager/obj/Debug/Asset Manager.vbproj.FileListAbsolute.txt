@@ -1,0 +1,27 @@
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\Asset Manager.exe.config
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\Asset Manager.exe
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\Asset Manager.pdb
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\Asset Manager.xml
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\MySql.Data.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\Google.Protobuf.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\ZstdNet.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\BouncyCastle.Crypto.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\Ubiety.Dns.Core.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\System.Buffers.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\K4os.Compression.LZ4.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\K4os.Hash.xxHash.dll
+Y:\Asset Manager\Asset Manager\Asset Manager\bin\Debug\MySql.Data.xml
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.vbproj.AssemblyReference.cache
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.vbproj.SuggestedBindingRedirects.cache
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.exe.config
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset_Manager.AssetSearchAdd.resources
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset_Manager.frmDatabase.resources
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset_Manager.frmLogin.resources
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset_Manager.Resources.resources
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.vbproj.GenerateResource.cache
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.vbproj.CoreCompileInputs.cache
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.vbproj.CopyComplete
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.exe
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.xml
+Y:\Asset Manager\Asset Manager\Asset Manager\obj\Debug\Asset Manager.pdb

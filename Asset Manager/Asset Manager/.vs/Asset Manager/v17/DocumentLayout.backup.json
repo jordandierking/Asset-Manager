@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAC58A0-3FB0-4C11-9431-B608AD87716A}|Asset Manager\\Asset Manager.vbproj|\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\asset manager\\assetsearchadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAC58A0-3FB0-4C11-9431-B608AD87716A}|Asset Manager\\Asset Manager.vbproj|\\\\192.168.3.1\\usb_storage\\asset manager\\asset manager\\asset manager\\assetsearchadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAC58A0-3FB0-4C11-9431-B608AD87716A}|Asset Manager\\Asset Manager.vbproj|\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\asset manager\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAC58A0-3FB0-4C11-9431-B608AD87716A}|Asset Manager\\Asset Manager.vbproj|\\\\192.168.3.1\\usb_storage\\asset manager\\asset manager\\asset manager\\frmdatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAC58A0-3FB0-4C11-9431-B608AD87716A}|Asset Manager\\Asset Manager.vbproj|\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\asset manager\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Asset Manager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAC58A0-3FB0-4C11-9431-B608AD87716A}|Asset Manager\\Asset Manager.vbproj|\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\asset manager\\dbconn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDatabase.vb [Design]",
+              "DocumentMoniker": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\frmDatabase.vb",
+              "RelativeDocumentMoniker": "Asset Manager\\frmDatabase.vb",
+              "ToolTip": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\frmDatabase.vb [Design]",
+              "RelativeToolTip": "Asset Manager\\frmDatabase.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T03:33:55.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetSearchAdd.vb [Design]",
+              "DocumentMoniker": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\AssetSearchAdd.vb",
+              "RelativeDocumentMoniker": "Asset Manager\\AssetSearchAdd.vb",
+              "ToolTip": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\AssetSearchAdd.vb [Design]",
+              "RelativeToolTip": "Asset Manager\\AssetSearchAdd.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T03:33:47.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetSearchAdd.vb",
+              "DocumentMoniker": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\AssetSearchAdd.vb",
+              "RelativeDocumentMoniker": "Asset Manager\\AssetSearchAdd.vb",
+              "ToolTip": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\AssetSearchAdd.vb",
+              "RelativeToolTip": "Asset Manager\\AssetSearchAdd.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T03:33:48.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asset Manager",
+              "DocumentMoniker": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\Asset Manager.vbproj",
+              "RelativeDocumentMoniker": "Asset Manager\\Asset Manager.vbproj",
+              "ToolTip": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\Asset Manager.vbproj",
+              "RelativeToolTip": "Asset Manager\\Asset Manager.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2022-12-02T22:10:51.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\frmLogin.vb",
+              "RelativeDocumentMoniker": "Asset Manager\\frmLogin.vb",
+              "ToolTip": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\frmLogin.vb",
+              "RelativeToolTip": "Asset Manager\\frmLogin.vb",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T03:33:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.vb [Design]",
+              "DocumentMoniker": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\frmLogin.vb",
+              "RelativeDocumentMoniker": "Asset Manager\\frmLogin.vb",
+              "ToolTip": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\frmLogin.vb [Design]",
+              "RelativeToolTip": "Asset Manager\\frmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T03:33:48.079Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbconn.vb",
+              "DocumentMoniker": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\dbconn.vb",
+              "RelativeDocumentMoniker": "Asset Manager\\dbconn.vb",
+              "ToolTip": "\\\\192.168.3.1\\USB_Storage\\Asset Manager\\Asset Manager\\Asset Manager\\dbconn.vb",
+              "RelativeToolTip": "Asset Manager\\dbconn.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T03:33:48.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
